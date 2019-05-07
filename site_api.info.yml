@@ -1,0 +1,6 @@
+name: Site API Module
+description: Module that help to retrive data using API.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

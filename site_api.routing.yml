@@ -1,0 +1,6 @@
+site_api.getdata:
+  path: '/page_json/content/{id}'
+  defaults:
+    _controller: '\Drupal\site_api\Controller\SiteAPIController::getdata'
+  requirements:
+    _access: 'TRUE'

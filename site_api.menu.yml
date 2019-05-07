@@ -1,0 +1,5 @@
+site_api.getdata:
+  title: 'API Test'
+  description: 'API Test'
+  route_name: site_api.getdata
+  weight: 100
